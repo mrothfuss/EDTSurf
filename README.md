@@ -6,9 +6,9 @@ EDTSurf is a open source program to construct triangulated surfaces for macromol
 
 ## Reference
 
-D. Xu, Y. Zhang (2009) Generating Triangulated Macromolecular Surfaces by Euclidean Distance Transform. PLoS ONE 4(12): e8140. (download the PDF file). 
+D. Xu, Y. Zhang (2009) Generating Triangulated Macromolecular Surfaces by Euclidean Distance Transform. PLoS ONE 4(12): e8140. ([download the PDF file](https://zhanggroup.org/EDTSurf/EDTSurf.pdf)). 
 
-D. Xu, H. Li, Y. Zhang (2013) Protein Depth Calculation and the Use for Improving Accuracy of Protein Fold Recognition. Journal of Computational Biology 20(10):805-816. (download the PDF file). 
+D. Xu, H. Li, Y. Zhang (2013) Protein Depth Calculation and the Use for Improving Accuracy of Protein Fold Recognition. Journal of Computational Biology 20(10):805-816. ([download the PDF file](https://zhanggroup.org/EDTSurf/depth-jcb.pdf)). 
 
 ## Disclaimer
 
