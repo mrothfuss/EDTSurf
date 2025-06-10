@@ -19,7 +19,7 @@ int main(int argc, char** argv)
 	char inname[200];
 	char tpname[200];
 	char filename[200];
-	bool flagopt[7];
+	bool flagopt[8];
 	bool bcolor;
 	int i;
 	clock_t remcstart, remcfinish;
