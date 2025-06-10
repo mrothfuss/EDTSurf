@@ -2,7 +2,9 @@
 
 ## Introduction
 
-EDTSurf is a open source program to construct triangulated surfaces for macromolecules. It generates three major macromolecular surfaces: van der Waals surface, solvent-accessible surface and molecular surface (solvent-excluded surface). EDTSurf also identifies cavities which are inside of macromolecules. Recently, EDTSurf has been extended to calculate atom depth and residue depth to solvent-accessible surface. 
+EDTSurf is a open source program to construct triangulated surfaces for macromolecules. It generates three major macromolecular surfaces: van der Waals surface, solvent-accessible surface and molecular surface (solvent-excluded surface). EDTSurf also identifies cavities which are inside of macromolecules. Recently, EDTSurf has been extended to calculate atom depth and residue depth to solvent-accessible surface.
+
+Project homepage: https://zhanggroup.org/EDTSurf
 
 ## Reference
 
