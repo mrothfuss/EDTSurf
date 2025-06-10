@@ -21,7 +21,7 @@ int main(int argc, char** argv)
 	char filename[200];
 	bool flagopt[8];
 	bool bcolor;
-	int i;
+	int i, j;
 	clock_t remcstart, remcfinish;
 	if(argc<3)
 	{
@@ -392,6 +392,9 @@ int main(int argc, char** argv)
 	printf("Calculate cavity area and volume...\n");
 	pps.cavitiesareavolume();
 	printf("Cavity area %.3f and volume %.3f\n",pps.carea,pps.cvolume);
+	for(j = 0; j < pps.ncav; j++) {
+		printf("Cavity %d volume: %.3f\n", j, pps.eachcavityvolume[j]);
+	}
 	printf("Calculate inner and outer atoms\n");
 	pps.atomsinout(pp.promod[0].procha[0].chainseg.init,pp.promod[0].procha[pp.promod[0].nchain].chainseg.term,pp.proseq);
 	if(pps.ncav>0)
