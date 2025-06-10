@@ -1,0 +1,6 @@
+Reference:
+D. Xu, Y. Zhang (2009) Generating Triangulated Macromolecular Surfaces by Euclidean Distance Transform. PLoS ONE 4(12): e8140.
+D. Xu, H. Li, Y. Zhang (2013) Protein Depth Calculation and the Use for Improving Accuracy of Protein Fold Recognition. Journal of Computational Biology 20(10):805-816.
+
+Disclaimer:
+Permission to use, copy, modify, and distribute this program for any purpose, with or without fee, is hereby granted, provided that this copyright notice and the reference information appear in all copies or substantial portions of the Software. It is provided "as is" without express or implied warranty.
