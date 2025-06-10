@@ -417,5 +417,4 @@ int main(int argc, char** argv)
 		pps.outsas(pp.numbb,pp.bb,pp.proseq,filename);
 	}
 	return 1;
-} 
-
+}
